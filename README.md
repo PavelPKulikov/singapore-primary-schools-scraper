@@ -27,4 +27,4 @@ A fully automated Google Sheet with clean and organized data of 182 primary scho
 I handled the full implementation from idea to automation: fetching, parsing, structuring the output, and preparing the script for repeated use.
 
 ## 📎 Preview
-*Link to the Google Sheet or screenshots can be added here.*
+https://docs.google.com/spreadsheets/d/1DIPWJHRKt0couf-ZhRklygePhnHU66Hdj7D4syLhH9k/edit?usp=drivesdk
